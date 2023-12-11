@@ -22,6 +22,9 @@ Além disso, a fábrica disponibiliza algumas tabelas de metadados que são mant
 
 ![](Imagens/arquitetura.JPG)
 
+Cada manhã, os sensores IoT geram um arquivo JSON, o qual é prontamente disponibilizado em uma pasta de um servidor local. O propósito central do script Python é efetuar o carregamento desse arquivo em sua forma bruta no MongoDB. Em seguida, são executadas as transformações necessárias nos dados, culminando na disponibilização estruturada dessas informações em uma tabela no SQL Server.
+
+Os metadados são armazenados em tabelas específicas no SQL Server, sendo a finalidade principal a exposição dessa estrutura para a equipe de Analytics. Dessa maneira, possibilita-se a realização das análises necessárias com eficácia e precisão.
 
 
 
