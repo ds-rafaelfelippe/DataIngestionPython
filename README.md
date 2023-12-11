@@ -36,11 +36,11 @@ Como estratégia para a solução do projeto, definimos as seguintes etapas:
 
 - **1. Criação das tabelas "dimensão":** A elaboração das tabelas "dimensão" foi realizada de forma manual no SQL Server, dado o baixo volume de dados em movimento. O script correspondente encontra-se disponível na pasta "Metadados".
 
-- **2. Carga do arquivo JSON:** nesta etapa, nosso script irá criar um banco de dados e uma coleção no MongoDB para realizar a carga do arquivo.
+- **2. Carga do arquivo JSON:** nesta etapa, nosso script cria um banco de dados e uma coleção no MongoDB para realizar a carga do arquivo.
 
-- **3. Engenharia de Atributos:** com os dados existentes, criaremos variáveis a fim de extrair novas informações dos dados.
+- **3. Tratamento dos dados:** na terceira etapa, implementamos as transformações necessárias nos dados para otimizar sua qualidade e coerência.
 
-- **4. Perguntas e Hipóteses de Negócio:** ainda como forma de explorar os dados, criaremos perguntas e hipóteses relacionadas ao problema de negócio.
+- **4. Disponibilização dos dados:** na etapa final, estabelecemos conexão com o SQL Server para criar e preencher uma tabela com os dados devidamente transformados.
 
 
 
