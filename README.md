@@ -16,7 +16,7 @@ Além disso, a fábrica disponibiliza algumas tabelas de metadados que são mant
 
 # Ferramentas Utilizadas
 
-![](Imagens/ferramentas.jpeg)
+![](Imagens/ferramentas.JPG)
 
 
 
