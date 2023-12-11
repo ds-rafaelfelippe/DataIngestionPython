@@ -51,7 +51,9 @@ Os metadados são armazenados em tabelas específicas no SQL Server, sendo a fin
 
 # Conclusões Finais
 
+Esse mini projeto se desdobrou em quatro partes essenciais. Iniciamos com a criação das tabelas de dimensão e, posteriormente, automatizamos todo o processo por meio de um script Python. Desde a carga do arquivo JSON no MongoDB até a entrega dos dados de maneira estruturada no SQL Server. 
 
+Como próximo passo, podemos considerar a implementação de um serviço de agendamento para a execução automática desse script em uma base diária. Dada a robustez do código desenvolvido, a implementação dessa automação não apresentaria desafios significativos, garantindo que os dados permaneçam constantemente atualizados e prontos para análises necessárias.
 
 # Autor
 
