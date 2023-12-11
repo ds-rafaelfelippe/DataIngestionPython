@@ -1,6 +1,6 @@
 ![](Imagens/Fundo.png)
 
-Este é um projeto de Engenharia de Dados.
+Esse é um mini projeto de Engenharia de Dados.
 
 O conjunto de dados utilizado está disponível na pasta "Dados".
 
