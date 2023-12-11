@@ -49,6 +49,16 @@ Os metadados são armazenados em tabelas específicas no SQL Server, sendo a fin
 
 ![](Imagens/ferramentas.JPG)
 
+# Conclusões Finais
+
+
+
+# Autor
+
+Rafael Felippe  
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafaelfelippe/)
+
 
 
 
