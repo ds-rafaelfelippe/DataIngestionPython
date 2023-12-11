@@ -26,6 +26,11 @@ Cada manhã, os sensores IoT geram um arquivo JSON, o qual é prontamente dispon
 
 Os metadados são armazenados em tabelas específicas no SQL Server, sendo a finalidade principal a exposição dessa estrutura para a equipe de Analytics. Dessa maneira, possibilita-se a realização das análises necessárias com eficácia e precisão.
 
+# Modelagem dos Dados
+
+![](Imagens/modelagem.JPG)
+
+
 
 
 
