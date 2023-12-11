@@ -1,5 +1,11 @@
 ![](Imagens/Fundo.png)
 
+Mini projeto desenvolvido no contexto da disciplina de Banco de Dados Não Relacional do programa de pós-graduação em Ciência de Dados e Machine Learning na PUC Campinas.
+
+O conjunto de dados utilizado está disponível na pasta "Dados".
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Entendimento do Negócio
 
 Uma fábrica de alimentos planeja implementar um projeto de dados para analisar informações de sensores IoT. 
