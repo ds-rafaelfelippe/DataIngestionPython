@@ -18,6 +18,11 @@ Além disso, a fábrica disponibiliza algumas tabelas de metadados que são mant
 
 ![](Imagens/ferramentas.JPG)
 
+# Arquitetura da Solução
+
+![](Imagens/arquitetura.JPG)
+
+
 
 
 
