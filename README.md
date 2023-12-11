@@ -1,6 +1,6 @@
 ![](Imagens/Fundo.png)
 
-Mini projeto desenvolvido no contexto da disciplina de Banco de Dados Não Relacional do programa de pós-graduação em Ciência de Dados e Machine Learning na PUC Campinas.
+Este é um projeto de Engenharia de Dados.
 
 O conjunto de dados utilizado está disponível na pasta "Dados".
 
