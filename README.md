@@ -14,6 +14,10 @@ Os dados provenientes dos sensores IoT são disponibilizados todas as manhãs no
 
 Além disso, a fábrica disponibiliza algumas tabelas de metadados que são mantidas em um banco de dados relacional. Essas tabelas contém dados sobre os tipos de sensores e os locais onde estão instalados.
 
+# Ferramentas Utilizadas
+
+![](Imagens/ferramentas.jpeg)
+
 
 
 
