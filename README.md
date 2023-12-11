@@ -1,1 +1,1 @@
-![](Imagens/fundo.PNG)
+![](Imagens/fundo.png)
